@@ -18,7 +18,7 @@
 
 ## 🤖 Introduction
 
-**Axel AI** is a modern SaaS landing page built with **React.js**, **Vite**, and **Tailwind CSS**. It demonstrates high-end UI/UX execution, smooth animations, and responsive design—all optimized for performance and scalability. This project serves as both a launch-ready frontend asset and a learning reference for modern frontend architectures.
+**Axel AI** is a modern SaaS landing page built with **React.js**, **Vite**, and **Tailwind CSS**. It demonstrates high-end UI/UX execution, smooth animations, and responsive design all optimized for performance and scalability.
 
 ---
 
@@ -78,8 +78,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
 
