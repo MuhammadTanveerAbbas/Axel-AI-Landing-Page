@@ -49,8 +49,7 @@ Many SaaS landing pages:
 - 🎨 **Tailwind CSS** for rapid and responsive UI development  
 - 🧠 **React.js** for reusable, maintainable components  
 - 🎞️ Smooth motion and micro interactions  
-- 📱 Pixel perfect responsive design for all devices  
-- ♻️ Scalable code structure for long term maintainability
+- 📱 Pixel perfect responsive design for all devices
 
 ---
 
