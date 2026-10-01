@@ -65,7 +65,7 @@ Many SaaS landing pages:
 
 ### 🛠️ Technology Used
 
-React.js • Vite • Tailwind CSS • JavaScript • HTML • CSS
+React js • Vite • Tailwind CSS • JavaScript • HTML • CSS
 
 ---
 
